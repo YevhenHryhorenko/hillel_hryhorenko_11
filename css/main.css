@@ -689,7 +689,7 @@ body {
 .footer-bott-company {
 	display: flex;
 	column-gap: 15px;
-	align-items: center;
+	align-items: flex-start;
 }
 
 .footer-bott-rights {
